@@ -1,2 +1,2 @@
 # JavaLessons
-This is mt Java project.
+This is my Java project.
